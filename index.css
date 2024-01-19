@@ -1,0 +1,31 @@
+.padre{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.verde{
+    padding:  1rem;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: greenyellow;
+}
+.rojo{
+    padding:  1rem;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: red;
+}
+.cajita{
+    padding-top: 5rem;
+}
+.cuadro{
+ border: 1px solid black;
+ border-radius: 5px;
+}
